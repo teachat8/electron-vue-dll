@@ -51,7 +51,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "ffi": "github:gavignus/node-ffi#torycl/forceset-fix",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
